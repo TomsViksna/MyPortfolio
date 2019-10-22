@@ -1,0 +1,68 @@
+    body {
+    background: #000;
+    height: 70%;
+}
+
+video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 80%;
+    min-height: 80%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    background: black;
+    background-size: cover;
+    transition: 1s opacity;
+}
+
+.stopfade {
+    opacity: .5;
+}
+
+#polina {
+    font-family: Agenda-Light, Agenda Light, Agenda, Arial Narrow, sans-serif;
+    font-weight: 100;
+    color: white;
+    width: 33%;
+    margin: 6rem;
+    font-size: 1.2rem;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    height: 100%;
+    padding-top: 70px;
+}
+
+h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    margin-top: 0;
+    letter-spacing: .3rem;
+}
+
+a {
+    display: inline;
+    color: #fff;
+    text-decoration: none;
+    padding: .5rem;
+    transition: .6s background;
+}
+
+a:hover {}
+
+@media screen and (max-width: 500px) {
+    div {
+        width: 70%;
+    }
+}
+
+@media screen and (max-device-width: 800px) {
+    html {
+        background: url(farandawaypic.jpg) #000 no-repeat center center fixed;
+    }
+    #bgvid {
+        display: none;
+    }
