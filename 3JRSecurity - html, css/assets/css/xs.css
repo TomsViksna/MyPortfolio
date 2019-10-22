@@ -1,0 +1,347 @@
+@media (max-width:320px) {
+  .xss-firstheaderheading-a {
+    font-size:15px;
+    float:right;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-firstpagetextfont-a {
+    font-size:15px;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-paragraphfield-a {
+    font-size:12px;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-thirdlogo {
+    width:25rem;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-thirdparagrph-c {
+    font-size:12px;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-thirdrightsidetext-c {
+    font-size:12px;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-thirdheadingleftside-c {
+    font-size:15px;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-headerheading-b {
+    margin-left:auto;
+    text-align:center;
+    font-size:15px;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-solutionbutton-a {
+    width:12rem;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-card-b {
+    width:12rem;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-paragrphheigh-b {
+    font-size:12px;
+    width:100%;
+    text-align:justify;
+    color:black;
+    margin-top:-1rem;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-headeingcolor1-b {
+    margin-top:2rem;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-headeingcolor-b {
+    font-size:15px;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-linkwidth-b {
+    width:2.7rem;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-footericonsfloat-a {
+    margin-left:-2rem;
+  }
+}
+
+@media (max-width:320px) {
+  .footerheading-xss-a {
+    font-size:12px;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-footericonswidth-a {
+    width:1.5rem;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-height-b {
+    height:53rem;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-backgroundimg-b {
+    overflow:visible;
+    height:95rem;
+    background-position:-30rem;
+  }
+}
+
+@media (max-width:320px) {
+  .xss-backgroundimg-c {
+    overflow:visible;
+    height:120rem;
+  }
+}
+
+@media (max-width:320px) {
+  .backgroundimg-xss-a {
+    overflow:visible;
+    height:85rem;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-logoimg {
+    width:320px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-thirdlogo {
+    width:320px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-thirdlinklogo {
+    margin:initial;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-secondlogoimg {
+    width:320px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-paragrphheigh {
+    font-size:14px;
+    width:100%;
+    text-align:justify;
+    color:black;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-headeingcolor {
+    font-size:18px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-flagright {
+    margin-right:0;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-secondlinklogo {
+    display:inline-block;
+    margin:initial;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-thirdrightsidetext {
+    text-align:left;
+    font-size:14px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-thirdparagrph {
+    text-align:left;
+    margin:auto;
+    width:100%;
+    font-size:14px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-solutionbutton {
+    width:150px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-thirdrightsidetop {
+    margin:initial;
+    text-align:center;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-middleimg {
+    margin-top:2rem;
+    margin-bottom:2rem;
+    margin-right:initial;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-thirdleftsidetext {
+    margin-top:1rem;
+    margin-left:initial;
+    text-align:center;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-linklogo {
+    margin:initial;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-headerheading {
+    margin-left:auto;
+    text-align:center;
+    font-size:18px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-footericonswidth {
+    width:2rem;
+    margin-left:-12px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-footerbackground {
+    bottom:0;
+    overflow-y:hidden;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-height {
+    height:60rem;
+    margin-top:2rem;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .backgroundimg-xs-b {
+    background-position:-35rem;
+    overflow:visible;
+    height:110rem;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-thirdheadingleftside {
+    font-size:18px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-paragraphfield {
+    margin:0;
+    font-size:14px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-firstpagetextfont {
+    text-align:center;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-firstheaderheading {
+    float:right;
+    margin-right:0;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-card {
+    width:150px;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-healpbuttontop {
+    margin:0;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .backgroundimg-xs-a {
+    height:95rem;
+    overflow:visible;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-footerright-b {
+    width:51%;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .xs-footer-b {
+    width:44%;
+  }
+}
+
+@media (min-width:360px) and (max-width:736px) {
+  .backgroundimg-xs-c {
+    height:135rem;
+    overflow:visible;
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  .test-background {
+    background-size:contain;
+  }
+}
+
